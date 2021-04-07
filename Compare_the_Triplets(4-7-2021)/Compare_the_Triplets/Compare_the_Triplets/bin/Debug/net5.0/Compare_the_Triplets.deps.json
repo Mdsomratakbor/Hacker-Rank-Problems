@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Compare_the_Triplets/1.0.0": {
+        "runtime": {
+          "Compare_the_Triplets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compare_the_Triplets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

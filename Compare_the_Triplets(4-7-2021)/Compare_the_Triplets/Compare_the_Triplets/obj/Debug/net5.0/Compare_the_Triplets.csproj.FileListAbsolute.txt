@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.exe
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.deps.json
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.runtimeconfig.json
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.runtimeconfig.dev.json
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.dll
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\ref\Compare_the_Triplets.dll
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\bin\Debug\net5.0\Compare_the_Triplets.pdb
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.AssemblyInfo.cs
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.dll
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\ref\Compare_the_Triplets.dll
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.pdb
+D:\My Project\HackerRank\Compare_the_Triplets(4-7-2021)\Compare_the_Triplets\Compare_the_Triplets\obj\Debug\net5.0\Compare_the_Triplets.genruntimeconfig.cache
