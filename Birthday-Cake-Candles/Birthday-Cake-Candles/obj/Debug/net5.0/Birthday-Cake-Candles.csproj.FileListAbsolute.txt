@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.exe
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.deps.json
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.runtimeconfig.json
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.runtimeconfig.dev.json
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.dll
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\ref\Birthday-Cake-Candles.dll
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\bin\Debug\net5.0\Birthday-Cake-Candles.pdb
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.AssemblyInfo.cs
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.dll
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\ref\Birthday-Cake-Candles.dll
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.pdb
+D:\My Project\HackerRank\Birthday-Cake-Candles\Birthday-Cake-Candles\obj\Debug\net5.0\Birthday-Cake-Candles.genruntimeconfig.cache
