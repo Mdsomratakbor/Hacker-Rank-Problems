@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.exe
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.deps.json
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.runtimeconfig.json
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.runtimeconfig.dev.json
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.dll
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\ref\Time-Conversion.dll
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\bin\Debug\net5.0\Time-Conversion.pdb
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.AssemblyInfo.cs
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.dll
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\ref\Time-Conversion.dll
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.pdb
+D:\My Project\HackerRank\Time-Conversion\Time-Conversion\obj\Debug\net5.0\Time-Conversion.genruntimeconfig.cache

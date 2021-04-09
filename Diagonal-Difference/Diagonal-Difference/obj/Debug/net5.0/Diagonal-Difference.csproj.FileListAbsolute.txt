@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.exe
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.deps.json
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.runtimeconfig.json
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.runtimeconfig.dev.json
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.dll
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\ref\Diagonal-Difference.dll
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\bin\Debug\net5.0\Diagonal-Difference.pdb
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.AssemblyInfo.cs
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.dll
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\ref\Diagonal-Difference.dll
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.pdb
+D:\My Project\HackerRank\Diagonal-Difference\Diagonal-Difference\obj\Debug\net5.0\Diagonal-Difference.genruntimeconfig.cache
