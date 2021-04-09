@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).exe
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).deps.json
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).runtimeconfig.json
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).runtimeconfig.dev.json
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).dll
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\ref\A-Very-Big-Sum(4-7-2021).dll
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\bin\Debug\net5.0\A-Very-Big-Sum(4-7-2021).pdb
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).csprojAssemblyReference.cache
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).AssemblyInfoInputs.cache
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).AssemblyInfo.cs
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).dll
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\ref\A-Very-Big-Sum(4-7-2021).dll
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).pdb
+D:\My Project\HackerRank\A-Very-Big-Sum(4-7-2021)\A-Very-Big-Sum(4-7-2021)\obj\Debug\net5.0\A-Very-Big-Sum(4-7-2021).genruntimeconfig.cache
