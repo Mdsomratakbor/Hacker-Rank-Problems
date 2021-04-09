@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.exe
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.deps.json
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.runtimeconfig.json
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.runtimeconfig.dev.json
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.dll
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\ref\Number-Line-Jumps.dll
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\bin\Debug\net5.0\Number-Line-Jumps.pdb
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.AssemblyInfo.cs
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.dll
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\ref\Number-Line-Jumps.dll
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.pdb
+D:\My Project\HackerRank\Number-Line-Jumps\Number-Line-Jumps\obj\Debug\net5.0\Number-Line-Jumps.genruntimeconfig.cache

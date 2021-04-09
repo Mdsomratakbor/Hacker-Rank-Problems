@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.exe
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.deps.json
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.runtimeconfig.json
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.runtimeconfig.dev.json
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.dll
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\ref\Apple-and-Orange.dll
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\bin\Debug\net5.0\Apple-and-Orange.pdb
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.AssemblyInfo.cs
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.dll
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\ref\Apple-and-Orange.dll
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.pdb
+D:\My Project\HackerRank\Apple-and-Orange\Apple-and-Orange\obj\Debug\net5.0\Apple-and-Orange.genruntimeconfig.cache
