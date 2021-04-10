@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.exe
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.deps.json
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.runtimeconfig.json
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.runtimeconfig.dev.json
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.dll
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\ref\Picking-Numbers.dll
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\bin\Debug\net5.0\Picking-Numbers.pdb
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.AssemblyInfo.cs
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.dll
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\ref\Picking-Numbers.dll
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.pdb
+D:\My Project\HackerRank\Picking-Numbers\Picking-Numbers\obj\Debug\net5.0\Picking-Numbers.genruntimeconfig.cache
