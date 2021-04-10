@@ -1,0 +1,15 @@
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.exe
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.deps.json
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.runtimeconfig.json
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.runtimeconfig.dev.json
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.dll
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\ref\Find-the-Median.dll
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\bin\Debug\net5.0\Find-the-Median.pdb
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.AssemblyInfo.cs
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.dll
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\ref\Find-the-Median.dll
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.pdb
+D:\My Project\HackerRank\Find-the-Median\Find-the-Median\obj\Debug\net5.0\Find-the-Median.genruntimeconfig.cache
