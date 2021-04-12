@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.exe
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.deps.json
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.runtimeconfig.json
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.runtimeconfig.dev.json
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.dll
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\ref\Divisible-Sum-Pairs.dll
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\bin\Debug\net5.0\Divisible-Sum-Pairs.pdb
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.AssemblyInfo.cs
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.dll
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\ref\Divisible-Sum-Pairs.dll
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.pdb
+D:\My Project\HackerRank\Divisible-Sum-Pairs\Divisible-Sum-Pairs\obj\Debug\net5.0\Divisible-Sum-Pairs.genruntimeconfig.cache
