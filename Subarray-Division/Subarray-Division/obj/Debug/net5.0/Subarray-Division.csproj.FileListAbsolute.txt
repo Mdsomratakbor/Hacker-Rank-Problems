@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.exe
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.deps.json
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.runtimeconfig.json
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.runtimeconfig.dev.json
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.dll
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\ref\Subarray-Division.dll
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\bin\Debug\net5.0\Subarray-Division.pdb
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.AssemblyInfo.cs
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.dll
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\ref\Subarray-Division.dll
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.pdb
+D:\My Project\HackerRank\Subarray-Division\Subarray-Division\obj\Debug\net5.0\Subarray-Division.genruntimeconfig.cache

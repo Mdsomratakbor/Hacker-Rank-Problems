@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.exe
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.deps.json
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.runtimeconfig.json
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.runtimeconfig.dev.json
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.dll
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\ref\Minimum-Distances.dll
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\bin\Debug\net5.0\Minimum-Distances.pdb
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.AssemblyInfo.cs
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.dll
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\ref\Minimum-Distances.dll
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.pdb
+D:\My Project\HackerRank\Minimum-Distances\Minimum-Distances\obj\Debug\net5.0\Minimum-Distances.genruntimeconfig.cache

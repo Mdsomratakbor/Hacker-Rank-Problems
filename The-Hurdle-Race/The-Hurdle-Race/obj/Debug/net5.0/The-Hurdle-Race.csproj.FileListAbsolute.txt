@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.exe
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.deps.json
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.runtimeconfig.json
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.runtimeconfig.dev.json
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.dll
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\ref\The-Hurdle-Race.dll
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\net5.0\The-Hurdle-Race.pdb
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.csprojAssemblyReference.cache
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.AssemblyInfo.cs
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.dll
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\ref\The-Hurdle-Race.dll
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.pdb
+D:\My Project\HackerRank\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\net5.0\The-Hurdle-Race.genruntimeconfig.cache
