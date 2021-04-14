@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.exe
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.deps.json
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.runtimeconfig.json
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.runtimeconfig.dev.json
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.dll
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\ref\Bill-Division.dll
+D:\My Project\HackerRank\Bill-Division\Bill-Division\bin\Debug\net5.0\Bill-Division.pdb
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.AssemblyInfo.cs
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.dll
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\ref\Bill-Division.dll
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.pdb
+D:\My Project\HackerRank\Bill-Division\Bill-Division\obj\Debug\net5.0\Bill-Division.genruntimeconfig.cache
