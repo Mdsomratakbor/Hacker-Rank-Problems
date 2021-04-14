@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.AssemblyInfo.cs
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.exe
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.deps.json
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.runtimeconfig.json
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.runtimeconfig.dev.json
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.dll
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\ref\Grading-Students.dll
+D:\My Project\HackerRank\Grading-Students\Grading-Students\bin\Debug\net5.0\Grading-Students.pdb
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.dll
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\ref\Grading-Students.dll
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.pdb
+D:\My Project\HackerRank\Grading-Students\Grading-Students\obj\Debug\net5.0\Grading-Students.genruntimeconfig.cache

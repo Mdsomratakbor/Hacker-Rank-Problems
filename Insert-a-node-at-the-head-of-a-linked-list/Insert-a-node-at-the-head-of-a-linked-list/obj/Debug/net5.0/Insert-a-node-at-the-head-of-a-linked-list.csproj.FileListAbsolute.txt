@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.exe
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.deps.json
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.runtimeconfig.json
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.runtimeconfig.dev.json
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.dll
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\ref\Insert-a-node-at-the-head-of-a-linked-list.dll
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\bin\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.pdb
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.AssemblyInfo.cs
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.dll
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\ref\Insert-a-node-at-the-head-of-a-linked-list.dll
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.pdb
+D:\My Project\HackerRank\Insert-a-node-at-the-head-of-a-linked-list\Insert-a-node-at-the-head-of-a-linked-list\obj\Debug\net5.0\Insert-a-node-at-the-head-of-a-linked-list.genruntimeconfig.cache

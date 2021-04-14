@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Insert-a-node-at-the-head-of-a-linked-list/1.0.0": {
+        "runtime": {
+          "Insert-a-node-at-the-head-of-a-linked-list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insert-a-node-at-the-head-of-a-linked-list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.exe
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.deps.json
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.runtimeconfig.json
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.runtimeconfig.dev.json
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.dll
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\ref\Drawing-Book.dll
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\bin\Debug\net5.0\Drawing-Book.pdb
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.AssemblyInfo.cs
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.dll
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\ref\Drawing-Book.dll
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.pdb
+D:\My Project\HackerRank\Drawing-Book\Drawing-Book\obj\Debug\net5.0\Drawing-Book.genruntimeconfig.cache

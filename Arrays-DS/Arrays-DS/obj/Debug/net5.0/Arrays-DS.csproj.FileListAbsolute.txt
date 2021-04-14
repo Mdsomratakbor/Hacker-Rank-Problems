@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.exe
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.deps.json
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.runtimeconfig.json
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.runtimeconfig.dev.json
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.dll
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\ref\Arrays-DS.dll
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\bin\Debug\net5.0\Arrays-DS.pdb
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.AssemblyInfo.cs
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.dll
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\ref\Arrays-DS.dll
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.pdb
+D:\My Project\HackerRank\Arrays-DS\Arrays-DS\obj\Debug\net5.0\Arrays-DS.genruntimeconfig.cache
