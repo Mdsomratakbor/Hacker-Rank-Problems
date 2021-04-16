@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Project\\HackerRank\\Designer-PDF-Viewer\\Designer-PDF-Viewer\\Designer-PDF-Viewer.csproj",
-      "projectName": "Designer-PDF-Viewer",
-      "projectPath": "D:\\My Project\\HackerRank\\Designer-PDF-Viewer\\Designer-PDF-Viewer\\Designer-PDF-Viewer.csproj",
+      "projectUniqueName": "D:\\My Project\\HackerRank\\Utopian-Tree\\Utopian-Tree\\Utopian-Tree.csproj",
+      "projectName": "Utopian-Tree",
+      "projectPath": "D:\\My Project\\HackerRank\\Utopian-Tree\\Utopian-Tree\\Utopian-Tree.csproj",
       "packagesPath": "C:\\Users\\Md Somrat Akbor\\.nuget\\packages\\",
-      "outputPath": "D:\\My Project\\HackerRank\\Designer-PDF-Viewer\\Designer-PDF-Viewer\\obj\\",
+      "outputPath": "D:\\My Project\\HackerRank\\Utopian-Tree\\Utopian-Tree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

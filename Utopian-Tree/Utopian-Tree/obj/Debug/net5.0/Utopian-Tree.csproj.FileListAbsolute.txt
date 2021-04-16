@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.exe
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.deps.json
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.runtimeconfig.json
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.runtimeconfig.dev.json
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.dll
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\ref\Utopian-Tree.dll
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\bin\Debug\net5.0\Utopian-Tree.pdb
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.AssemblyInfo.cs
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.dll
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\ref\Utopian-Tree.dll
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.pdb
+D:\My Project\HackerRank\Utopian-Tree\Utopian-Tree\obj\Debug\net5.0\Utopian-Tree.genruntimeconfig.cache
