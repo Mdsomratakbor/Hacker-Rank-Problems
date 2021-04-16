@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\ref\Designer-PDF-Viewer.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\net5.0\Designer-PDF-Viewer.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\ref\Designer-PDF-Viewer.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\net5.0\Designer-PDF-Viewer.genruntimeconfig.cache
