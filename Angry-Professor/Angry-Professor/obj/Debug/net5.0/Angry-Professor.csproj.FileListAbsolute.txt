@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.exe
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.deps.json
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.runtimeconfig.json
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.runtimeconfig.dev.json
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.dll
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\ref\Angry-Professor.dll
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\bin\Debug\net5.0\Angry-Professor.pdb
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.AssemblyInfo.cs
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.dll
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\ref\Angry-Professor.dll
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.pdb
+D:\My Project\HackerRank\Angry-Professor\Angry-Professor\obj\Debug\net5.0\Angry-Professor.genruntimeconfig.cache

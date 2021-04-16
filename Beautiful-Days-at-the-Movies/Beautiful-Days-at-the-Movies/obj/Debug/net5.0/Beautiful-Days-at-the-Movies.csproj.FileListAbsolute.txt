@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.exe
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.deps.json
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.runtimeconfig.json
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.runtimeconfig.dev.json
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.dll
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\ref\Beautiful-Days-at-the-Movies.dll
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\net5.0\Beautiful-Days-at-the-Movies.pdb
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.AssemblyInfo.cs
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.dll
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\ref\Beautiful-Days-at-the-Movies.dll
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.pdb
+D:\My Project\HackerRank\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\net5.0\Beautiful-Days-at-the-Movies.genruntimeconfig.cache

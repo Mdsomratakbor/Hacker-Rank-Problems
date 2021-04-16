@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Beautiful-Days-at-the-Movies/1.0.0": {
+        "runtime": {
+          "Beautiful-Days-at-the-Movies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beautiful-Days-at-the-Movies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
