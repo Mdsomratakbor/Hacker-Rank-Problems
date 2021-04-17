@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.exe
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.deps.json
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.runtimeconfig.json
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.runtimeconfig.dev.json
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.dll
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\ref\Circular-Array-Rotation.dll
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\bin\Debug\net5.0\Circular-Array-Rotation.pdb
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.AssemblyInfo.cs
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.dll
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\ref\Circular-Array-Rotation.dll
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.pdb
+D:\My Project\HackerRank\Circular-Array-Rotation\Circular-Array-Rotation\obj\Debug\net5.0\Circular-Array-Rotation.genruntimeconfig.cache
