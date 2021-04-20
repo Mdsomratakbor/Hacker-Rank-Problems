@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\ref\Left-Rotation.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\bin\Debug\net5.0\Left-Rotation.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\ref\Left-Rotation.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Left-Rotation\Left-Rotation\obj\Debug\net5.0\Left-Rotation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\ref\Sparse-Arrays.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\bin\Debug\net5.0\Sparse-Arrays.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\ref\Sparse-Arrays.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Sparse-Arrays\Sparse-Arrays\obj\Debug\net5.0\Sparse-Arrays.genruntimeconfig.cache

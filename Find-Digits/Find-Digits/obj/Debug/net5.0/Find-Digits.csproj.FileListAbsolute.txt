@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\ref\Find-Digits.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\bin\Debug\net5.0\Find-Digits.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\ref\Find-Digits.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Find-Digits\Find-Digits\obj\Debug\net5.0\Find-Digits.genruntimeconfig.cache
