@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.exe
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.deps.json
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.runtimeconfig.json
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.runtimeconfig.dev.json
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.dll
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\ref\Sequence-Equation.dll
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\bin\Debug\net5.0\Sequence-Equation.pdb
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.AssemblyInfo.cs
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.dll
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\ref\Sequence-Equation.dll
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.pdb
+D:\My Project\HackerRank\Sequence-Equation\Sequence-Equation\obj\Debug\net5.0\Sequence-Equation.genruntimeconfig.cache
