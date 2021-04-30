@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.exe
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.deps.json
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.runtimeconfig.json
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.runtimeconfig.dev.json
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.dll
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\ref\Extra-Long-Factorials.dll
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\bin\Debug\net5.0\Extra-Long-Factorials.pdb
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.AssemblyInfo.cs
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.dll
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\ref\Extra-Long-Factorials.dll
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.pdb
+D:\My Project\HackerRank\Extra-Long-Factorials\Extra-Long-Factorials\obj\Debug\net5.0\Extra-Long-Factorials.genruntimeconfig.cache

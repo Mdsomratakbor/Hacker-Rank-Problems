@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.exe
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.deps.json
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.runtimeconfig.json
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.runtimeconfig.dev.json
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.dll
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\ref\Append-and-Delete.dll
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\bin\Debug\net5.0\Append-and-Delete.pdb
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.AssemblyInfo.cs
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.dll
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\ref\Append-and-Delete.dll
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.pdb
+D:\My Project\HackerRank\Append-and-Delete\Append-and-Delete\obj\Debug\net5.0\Append-and-Delete.genruntimeconfig.cache
