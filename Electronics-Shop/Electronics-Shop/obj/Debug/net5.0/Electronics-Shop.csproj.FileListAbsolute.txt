@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.exe
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.deps.json
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.runtimeconfig.json
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.runtimeconfig.dev.json
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.dll
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\ref\Electronics-Shop.dll
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\bin\Debug\net5.0\Electronics-Shop.pdb
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.AssemblyInfo.cs
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.dll
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\ref\Electronics-Shop.dll
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.pdb
+D:\My Project\HackerRank\Electronics-Shop\Electronics-Shop\obj\Debug\net5.0\Electronics-Shop.genruntimeconfig.cache
