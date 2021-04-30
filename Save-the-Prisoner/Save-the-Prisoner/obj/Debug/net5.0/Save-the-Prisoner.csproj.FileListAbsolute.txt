@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.exe
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.deps.json
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.runtimeconfig.json
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.runtimeconfig.dev.json
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.dll
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\ref\Save-the-Prisoner.dll
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\bin\Debug\net5.0\Save-the-Prisoner.pdb
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.AssemblyInfo.cs
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.dll
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\ref\Save-the-Prisoner.dll
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.pdb
+D:\My Project\HackerRank\Save-the-Prisoner\Save-the-Prisoner\obj\Debug\net5.0\Save-the-Prisoner.genruntimeconfig.cache
