@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cats-and-a-Mouse/1.0.0": {
+        "runtime": {
+          "Cats-and-a-Mouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cats-and-a-Mouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.exe
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.deps.json
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.runtimeconfig.json
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.runtimeconfig.dev.json
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.dll
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\ref\Cats-and-a-Mouse.dll
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\bin\Debug\net5.0\Cats-and-a-Mouse.pdb
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.AssemblyInfo.cs
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.dll
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\ref\Cats-and-a-Mouse.dll
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.pdb
+D:\My Project\HackerRank\Cats-and-a-Mouse\Cats-and-a-Mouse\obj\Debug\net5.0\Cats-and-a-Mouse.genruntimeconfig.cache
