@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\ref\Library-Fine.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\bin\Debug\net5.0\Library-Fine.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\ref\Library-Fine.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Library-Fine\Library-Fine\obj\Debug\net5.0\Library-Fine.genruntimeconfig.cache

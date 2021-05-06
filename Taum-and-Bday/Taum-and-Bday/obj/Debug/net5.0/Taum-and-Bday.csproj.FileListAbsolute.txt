@@ -1,0 +1,16 @@
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.exe
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.deps.json
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.runtimeconfig.json
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.runtimeconfig.dev.json
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\ref\Taum-and-Bday.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\bin\Debug\net5.0\Taum-and-Bday.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.csprojAssemblyReference.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.AssemblyInfoInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.AssemblyInfo.cs
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.csproj.CoreCompileInputs.cache
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\ref\Taum-and-Bday.dll
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.pdb
+C:\Users\Md Somrat Akbor\Source\Repos\Taum-and-Bday\Taum-and-Bday\obj\Debug\net5.0\Taum-and-Bday.genruntimeconfig.cache
