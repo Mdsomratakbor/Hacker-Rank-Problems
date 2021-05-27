@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Summing-the-N-series/1.0.0": {
+        "runtime": {
+          "Summing-the-N-series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Summing-the-N-series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

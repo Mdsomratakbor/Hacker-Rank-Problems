@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.exe
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.deps.json
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.runtimeconfig.json
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.runtimeconfig.dev.json
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.dll
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\ref\Super-Reduced-String.dll
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\bin\Debug\net5.0\Super-Reduced-String.pdb
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.AssemblyInfo.cs
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.dll
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\ref\Super-Reduced-String.dll
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.pdb
+D:\My Project\HackerRank\Super-Reduced-String\Super-Reduced-String\obj\Debug\net5.0\Super-Reduced-String.genruntimeconfig.cache

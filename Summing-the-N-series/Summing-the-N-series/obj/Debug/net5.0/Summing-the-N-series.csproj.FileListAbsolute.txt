@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.exe
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.deps.json
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.runtimeconfig.json
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.runtimeconfig.dev.json
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.dll
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\ref\Summing-the-N-series.dll
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\bin\Debug\net5.0\Summing-the-N-series.pdb
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.AssemblyInfo.cs
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.dll
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\ref\Summing-the-N-series.dll
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.pdb
+D:\My Project\HackerRank\Summing-the-N-series\Summing-the-N-series\obj\Debug\net5.0\Summing-the-N-series.genruntimeconfig.cache
