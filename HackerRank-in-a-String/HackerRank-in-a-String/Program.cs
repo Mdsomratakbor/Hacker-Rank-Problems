@@ -23,4 +23,7 @@ namespace HackerRank_in_a_String
             int index = 0, h = 1, a=2, c=3, k=4 , e=0, r=0,   
         }
     }
+
+ 
+     
 }
