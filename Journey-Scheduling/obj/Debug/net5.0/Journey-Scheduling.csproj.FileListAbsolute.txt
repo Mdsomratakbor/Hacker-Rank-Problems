@@ -1,0 +1,16 @@
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.exe
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.deps.json
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.runtimeconfig.json
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.runtimeconfig.dev.json
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.dll
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\ref\Journey-Scheduling.dll
+D:\My Project\HackerRank\Journey-Scheduling\bin\Debug\net5.0\Journey-Scheduling.pdb
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.csprojAssemblyReference.cache
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.AssemblyInfoInputs.cache
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.AssemblyInfo.cs
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.csproj.CoreCompileInputs.cache
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.dll
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\ref\Journey-Scheduling.dll
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.pdb
+D:\My Project\HackerRank\Journey-Scheduling\obj\Debug\net5.0\Journey-Scheduling.genruntimeconfig.cache
